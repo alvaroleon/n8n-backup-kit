@@ -1,0 +1,6 @@
+.env
+n8n-backup-*/
+*.log
+.DS_Store
+vscode/*
+*.tar.gz
